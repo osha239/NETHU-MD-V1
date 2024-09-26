@@ -14,6 +14,6 @@ SUDO_NB: process.env.SUDO_NB || "94704227534",
 OWNER_NAME: process.env.OWNER_NAME || "Nethmika MAIN",
 BOT_NAME: process.env.BOT_NAME || "NETHU-MD",
 AUTO_VOICE: process.env.AUTO_VOICE || "true"
-
+AUTO_VOICE: girls.env.AUTO_VOICE || "true
 };
 
